@@ -1,7 +1,7 @@
 name: 'Paige Holland- Artist '
 favicon: null
 layout_spectrum: 0.9354620627127588
-typography_spectrum: 0.8057596795260906
+typography_spectrum: 0.80546
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8331789660733193
-  lightness: 0.8434767671860754
-  saturation: 0.05722893914207816
-  rhythmicContrast: 0.8246426701080054
+    - '#d9dfec'
+    - '#e79c00'
+    - '#cc5000'
+    - '#007f93'
+    - '#64812f'
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
