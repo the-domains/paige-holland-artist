@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Paige Holland- Artist ]]></title>
+        <description><![CDATA[Paige Holland- Artist ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 30 Jun 2016 17:02:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Invitation ]]></title>
+            <description><![CDATA[<article><h1>Invitation </h1><p>acrylic on canvas  48' x 48"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/127c570a80eb88f81762447d6566c69c55dd1414.jpg"></article>]]></description>
+            <link>undefinedinvitation/index.html</link>
+            <guid isPermaLink="false">05f839f2-a410-4686-85ab-3527c8b5070d</guid>
+            <pubDate>Thu, 30 Jun 2016 17:01:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
